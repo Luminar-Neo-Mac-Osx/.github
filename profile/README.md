@@ -1,7 +1,7 @@
 # Luminar Neo – Intelligent Photo Editing Powered by AI
 
 <div align="center">  
-  <img src="https://fujiaddict.com/wp-content/uploads/2020/09/LuminarAI-550x550.png" width="250"/>  
+  <img src="https://soft360.pl/3649-large_default/skylum-luminar-neo.jpg" width="350"/>  
 </div>  
 <br>  
 
